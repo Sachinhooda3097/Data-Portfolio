@@ -56,8 +56,9 @@ The objective of this project was to analyse historical bike rental data and dev
 
 ## Correlation Heatmap
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/01ce4944-cb5e-4c58-95f2-1d538748fd6f" />
-
+<p align="left">
+  <img src="images/corelation_heatmap.jpeg" width="500">
+</p>
 ---
 
 # Project 2 : Accenture Data Analytics & Visualization Simulation
@@ -70,13 +71,22 @@ This project was completed as part of the Accenture North America Data Analytics
 
 This interactive Power BI dashboard analyses the historical stock performance of major Adani Group companies over a one-year period. The dashboard includes investment simulations, stock price trends, trading volume analysis, and company performance metrics. It demonstrates advanced Power BI development, data modelling, DAX calculations, and business storytelling techniques.
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4ef09cf3-1db8-44c2-8c99-a76ad96bfd6a" />
-
+<p align="left">
+  <img src="images/adani_dashboard.jpeg" width="500">
+</p>
 ---
 
 # Project 4 : UK Asylum & Migration Analysis
 
 This project explores UK asylum applications and migration trends using official datasets published by the UK Government. Python was used to clean, transform, and analyse the data, while Plotly was used to create interactive visualisations. The analysis highlights trends in asylum applications, nationalities, and routes of entry, showcasing strong exploratory data analysis and data visualisation skills.
+
+<p align="left">
+  <img src="images/Entry_routes.jpeg" width="500">
+</p>
+
+<p align="left">
+  <img src="images/Nationality_plot.jpeg" width="500">
+</p>
 
 ---
 
@@ -89,6 +99,10 @@ This SQL project focuses on analysing industry-wise carbon emissions using Postg
 # Project 6 : Customer Churn Analysis Dashboard
 
 This Power BI dashboard provides a comprehensive analysis of customer churn for a telecommunications company. It identifies churn trends across customer demographics, contract types, payment methods, geographic regions, and service quality. Interactive visualisations and KPI dashboards enable stakeholders to understand the primary reasons behind customer attrition and support data-driven retention strategies.
+
+<p align="left">
+  <img src="images/churn_rate_report.jpeg" width="500">
+</p>
 
 ---
 
