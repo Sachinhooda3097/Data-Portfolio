@@ -48,6 +48,17 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 The objective of this project was to analyse historical bike rental data and develop machine learning models capable of accurately predicting future rental demand. The project involved data cleaning, feature engineering, exploratory data analysis, model training, and performance evaluation. By identifying the factors influencing rental demand, the project provides valuable insights that can support resource planning and operational decision-making for bike-sharing services.
 
+## Average Rental Counts by Hour
+
+<p align="left">
+  <img src="images/hourly_rental_counts.png" width="500">
+</p>
+
+## Correlation Heatmap
+
+<p align="left">
+  <img src="images/correlation_heatmap.png" width="500">
+</p>
 ---
 
 # Project 2 : Accenture Data Analytics & Visualization Simulation
