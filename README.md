@@ -145,3 +145,26 @@ Conducted as part of my postgraduate studies, this project analysed global Distr
 # Project 13 : Database Design & Implementation
 
 This academic project involved designing and implementing a relational database management system for a university department. The work included relational database design, SQL implementation, XML database development, and ontology modelling, demonstrating a strong understanding of database architecture and management principles.
+
+## 📬 Contact Information
+
+Thank you for taking the time to explore my Data Analytics Portfolio. I hope these projects demonstrate my technical skills, analytical thinking, and ability to solve real-world business problems using data.
+
+I'm always open to discussing Data Analytics, Business Intelligence, new opportunities, or potential collaborations. Feel free to get in touch using the contact details below.
+
+📧 **Email:** sachinhooda3097@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sachinhooda3003/
+
+🐙 **GitHub:** https://github.com/sachinhooda3097
+
+---
+
+## Author
+
+**Sachin Hooda**
+Data Analyst
+
+SQL • Python • Power BI • Tableau • Excel
+
+© 2026 Sachin Hooda. All rights reserved.
