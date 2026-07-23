@@ -56,9 +56,8 @@ The objective of this project was to analyse historical bike rental data and dev
 
 ## Correlation Heatmap
 
-<p align="left">
-  <img src="images/correlation_heatmap.png" width="500">
-</p>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/01ce4944-cb5e-4c58-95f2-1d538748fd6f" />
+
 ---
 
 # Project 2 : Accenture Data Analytics & Visualization Simulation
@@ -70,6 +69,8 @@ This project was completed as part of the Accenture North America Data Analytics
 # Project 3 : Adani Group Stock Market Dashboard
 
 This interactive Power BI dashboard analyses the historical stock performance of major Adani Group companies over a one-year period. The dashboard includes investment simulations, stock price trends, trading volume analysis, and company performance metrics. It demonstrates advanced Power BI development, data modelling, DAX calculations, and business storytelling techniques.
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/4ef09cf3-1db8-44c2-8c99-a76ad96bfd6a" />
 
 ---
 
